@@ -24,9 +24,11 @@
   border-radius: 3px;
   padding: 10px;
   border-width: 1px;
-  border-style: solid; 
-  border-color: #d5cdcd;
+   
+  border-color: #0a0a0a;
+  border: 1.5px solid black;
   font-size: 18px;
+  
 }
 
 .search-results {
